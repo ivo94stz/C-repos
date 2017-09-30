@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSL lab.1", "CSL lab.1\CSL lab.1.csproj", "{B68A43F9-0EA5-47BE-9790-91199D4C2401}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B68A43F9-0EA5-47BE-9790-91199D4C2401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B68A43F9-0EA5-47BE-9790-91199D4C2401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B68A43F9-0EA5-47BE-9790-91199D4C2401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B68A43F9-0EA5-47BE-9790-91199D4C2401}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95F27EAB-3025-4E50-A2DE-3430AE49E6C4}
+	EndGlobalSection
+EndGlobal
