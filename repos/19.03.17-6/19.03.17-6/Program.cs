@@ -30,10 +30,7 @@ namespace _19._03._17_6
                         i = start;
                         break;
                     }
-                    
                 }
-
-
             }
             if(start>=magic && end>= magic) Console.WriteLine("{0} combinations - neither equals {1}", comb, magic);
             else if(end*2<magic) Console.WriteLine("{0} combinations - neither equals {1}", comb, magic);
